@@ -75,10 +75,6 @@ div.output_subarea, div.inner_cell {
   flex: 1;
 }
 
-div.input_area pre {
-  margin-bottom: 0;
-}
-
 div.output_area pre {
   margin: 0;
   padding: 0;
@@ -91,11 +87,6 @@ div.output_area pre {
 
 div.output_subarea {
   padding: 0.4em;
-}
-
-div.output_stderr {
-  background: #fdd;
-  /* very light red background for stderr */
 }
 
 /** Table styles adapted from
